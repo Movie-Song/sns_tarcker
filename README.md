@@ -1,2 +1,2 @@
-# tistory_tracker
-티스토리 포스팅 트래커
+# sns_tarcker
+SNS에 글을 얼마나 쓰는지 알아보자.
